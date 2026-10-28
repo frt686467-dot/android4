@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.Sayim" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#0B5ED7</item>
+        <item name="colorPrimaryDark">#084298</item>
+        <item name="colorAccent">#0B5ED7</item>
+        <item name="android:windowBackground">#F1F4F9</item>
+        <item name="android:statusBarColor">#0B5ED7</item>
+    </style>
+</resources>

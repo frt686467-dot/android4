@@ -1,0 +1,1 @@
+# küçültme kapalı; kural gerekmiyor
